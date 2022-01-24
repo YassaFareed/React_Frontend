@@ -1,3 +1,10 @@
+Backend Django with DB sqlite: https://github.com/YassaFareed/Django-API  <br>
+
+Frontend React Js
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
